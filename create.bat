@@ -19,5 +19,5 @@ cd "Дискретная математика"
 echo Воронкова Ева Боруховна. Начало занятий: %date% > readme.txt
 cd ..
 cd ..
-copy op.bat semestr1
+copy op.bat %1
 copy algem.bat %1

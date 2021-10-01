@@ -1,6 +1,5 @@
 @echo off
-set text1 =%1
 cd Основы программирования
-echo %1 > %date%.log
+type con > %date%.log
 cd ..
 cd ..

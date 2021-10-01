@@ -1,4 +1,5 @@
 @echo off
+chcp 65001
 set semestr1 =%1
 mkdir %1
 cd %1
